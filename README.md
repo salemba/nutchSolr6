@@ -1,0 +1,1 @@
+# nutchSolr6
